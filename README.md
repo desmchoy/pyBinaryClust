@@ -1,5 +1,5 @@
 # pyBinaryClust
-Python Re-implementation of the R package [BinaryClust](https://github.com/desmchoy/BinaryClust) - Tools for CyTOF analysis
+Python re-implementation of the R package [BinaryClust](https://github.com/desmchoy/BinaryClust) - Tools for CyTOF analysis
 
 The original R tool has now been published:
 
