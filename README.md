@@ -237,7 +237,6 @@ To run UMAP, run the `DR.run_UMAP` function:
 
 ```
 umap_results = pyBC.DR.run_UMAP(data)
-
 ```
 
 This will return raw UMAP coordinates.
